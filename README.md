@@ -23,24 +23,6 @@ Translates to :
 
 #### Text emphasis
 
-~~~ Markdown
-
-Bold:
-
-**Double Asterisks**
-
-__Double Underlining__
-
-Italic:
-
-*Single Asterisk* 
-
-_Single Underline_
-
-Strikethrough:
-
-~~Double tilde~~
-~~~
 
 **Bold**:
 
