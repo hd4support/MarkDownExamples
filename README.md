@@ -21,7 +21,39 @@ Translates to :
 ##### Heading H5 ####
 ###### Heading H6 ###
 
+#### Text emphasis
 
+~~~ Markdown
 
+Bold:
 
- 
+**Double Asterisks**
+
+__Double Underlining__
+
+Italic:
+
+*Single Asterisk* 
+
+_Single Underline_
+
+Strikethrough:
+
+~~Double tilde~~
+~~~
+
+**Bold**:
+
+**Double Asterisks**
+
+__Double Underlining__
+
+**Italic**:
+
+*Single Asterisk* 
+
+_Single Underline_
+
+**Strikethrough:**
+
+~~Double tilde~~
