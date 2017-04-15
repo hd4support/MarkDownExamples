@@ -1,9 +1,8 @@
 
-MarkDown Examples
-----------------
-
+#MARKDOWN EXAMPLES 
 
 #### Heading/Titles 
+
 ```
 # Heading H1  #######
 ## Heading H2 #######
@@ -22,7 +21,8 @@ Translates to :
 ##### Heading H5 ####
 ###### Heading H6 ###
 
-####Text emphasis
+
+##Text emphasis
 
 
 ``` Markdown
@@ -42,6 +42,7 @@ Strikethrough:
 
 ~~Double tilde~~
 ```
+
 Translates to 
 
 Bold:
@@ -57,5 +58,3 @@ Italic:
 _Single Underline_
 
 Strikethrough:
-
-
