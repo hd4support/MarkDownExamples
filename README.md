@@ -1,5 +1,5 @@
 
-#MARKDOWN EXAMPLES 
+# MARKDOWN EXAMPLES 
 
 #### Heading/Titles 
 
@@ -22,7 +22,7 @@ Translates to :
 ###### Heading H6 ###
 
 
-##Text emphasis
+#### Text emphasis
 
 
 ``` Markdown
@@ -58,3 +58,6 @@ Italic:
 _Single Underline_
 
 Strikethrough:
+
+~~Double Tilde~~
+
