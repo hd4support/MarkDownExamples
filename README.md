@@ -26,38 +26,18 @@ Translates to :
 
 
 ``` Markdown
-Bold:
+Bold: **Double Asterisks**   __Double Underlining__
 
-**Double Asterisks**
+Italic: *Single Asterisk*  _Single Underline_
 
-__Double Underlining__
-
-Italic:
-
-*Single Asterisk* 
-
-_Single Underline_
-
-Strikethrough:
-
-~~Double tilde~~
+Strikethrough: ~~Double tilde~~
 ```
 
 Translates to 
 
-Bold:
+Bold: **Double Asterisks**   __Double Underlining__
 
-**Double Asterisks**
+Italic: *Single Asterisk*  _Single Underline_
 
-__Double Underlining__
-
-Italic:
-
-*Single Asterisk* 
-
-_Single Underline_
-
-Strikethrough:
-
-~~Double Tilde~~
+Strikethrough: ~~Double tilde~~
 
