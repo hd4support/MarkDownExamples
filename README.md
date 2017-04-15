@@ -1,5 +1,6 @@
 
-# MarkDown Examples
+MarkDown Examples
+----------------
 
 
 #### Heading/Titles 
@@ -21,21 +22,40 @@ Translates to :
 ##### Heading H5 ####
 ###### Heading H6 ###
 
-#### Text emphasis
+####Text emphasis
 
 
-**Bold**:
+``` Markdown
+Bold:
 
 **Double Asterisks**
 
 __Double Underlining__
 
-**Italic**:
+Italic:
 
 *Single Asterisk* 
 
 _Single Underline_
 
-**Strikethrough:**
+Strikethrough:
 
 ~~Double tilde~~
+```
+Translates to 
+
+Bold:
+
+**Double Asterisks**
+
+__Double Underlining__
+
+Italic:
+
+*Single Asterisk* 
+
+_Single Underline_
+
+Strikethrough:
+
+
