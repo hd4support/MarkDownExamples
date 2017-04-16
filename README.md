@@ -91,5 +91,9 @@ Bold Italic : **Bold _Italic_**
 
 ![Alt-text](https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google logo image")
 
-    
+Reference style
+
+![Alt-text][Google-Image]
+
+[Google-Image]:https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
     
