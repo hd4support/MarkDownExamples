@@ -85,7 +85,7 @@ Bold Italic : **Bold _Italic_**
 
 [AlrightHearMeOut]: http://google.co.uk
 [1]: http://reddit.com
-[Does linking itself  work] : http://probablyyes.com
+[Does linking itself  work]: http://probablyyes.com
 
 [Does linking itself work]
 
