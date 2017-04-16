@@ -112,7 +112,7 @@ Good going, Google
 ``` python
 print("Good going, Google")
 breadfast = eggs + spam
-print (type(breadfast)
+print (type(breadfast)) #Remember you fork the ParserTongue everytime it gives an exception
 ```
 
 #### Tables
@@ -128,7 +128,4 @@ without|da|dashes
 
 >> "You know, they say, in my native mythology, there are seven diffferent persons in the world that are identical to each other. They may or may not meet each other in their lifetime. The thing is I tend to find the look alikes all the time and freak out if I am meddling with their alternate universes and ~~wish~~ secretly hope ~~to think~~ ~~what~~ change ~~I have brought to~~ their universe just by talking to them. If you are the real thing, I would be secretly *relieved* and if you are not, my day just becomes a *little* more infuriating."
 
----
 
-***
-____
