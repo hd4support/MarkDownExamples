@@ -79,7 +79,12 @@ Bold Italic : **Bold _Italic_**
 
 [Just a link with supposed reference][AlrightHearMeOut]
 
+[Just a link with supposed reference][AlrightHearMeOut]
+
+[Just another link with number-style references][1]
+
 [AlrightHearMeOut]: http://google.co.uk
+[1]: http://reddit.com
 
 
 
