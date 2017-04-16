@@ -10,6 +10,12 @@
 #### Heading H4 #####
 ##### Heading H5 ####
 ###### Heading H6 ###
+
+Alt-H1
+=======
+
+Alt-H2
+------
 ```
 
 Translates to :
@@ -21,6 +27,12 @@ Translates to :
 ##### Heading H5 ####
 ###### Heading H6 ###
 
+
+Alt-H1
+=======
+
+Alt-H2
+------
 
 #### Text emphasis
 
