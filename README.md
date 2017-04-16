@@ -63,6 +63,6 @@ Bold Italic : **Bold _Italic_**
 1. One
 2. Two
 3. Three
-  * Three one
-  * Three two
+   * Three one
+   * Three two
 4. Four
