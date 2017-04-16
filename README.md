@@ -77,9 +77,12 @@ Bold Italic : **Bold _Italic_**
 
 [Just an orinary link but with a title](http://google.co.in "Google with an Indian twist")
 
-[Just a link with supposed reference](alrightHearMeOut)
+[Just a link with supposed reference][AlrightHearMeOut]
 
-[alrighthearmeout]: https://images.google.com
+[AlrightHearMeOut]: http://google.co.ukj
+
+
+
 
 
     
