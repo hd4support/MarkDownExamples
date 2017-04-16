@@ -79,7 +79,7 @@ Bold Italic : **Bold _Italic_**
 
 [Just a link with supposed reference][AlrightHearMeOut]
 
-[AlrightHearMeOut]: http://google.co.ukj
+[AlrightHearMeOut]: http://google.co.uk
 
 
 
