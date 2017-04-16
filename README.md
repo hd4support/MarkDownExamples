@@ -110,7 +110,7 @@ Good going, Google
 
     
 ``` python
-print("Good going, Bob")
+print("Good going, Google")
 breadfast = eggs + spam
 print (type(breadfast)
 ```
@@ -119,7 +119,7 @@ print (type(breadfast)
 
 | Col 1 | col 2 | col 3|
 | --- | ---| ---|
-|Roses|are|read|
+Roses|are|red
 |Violets|are|Blue|
 |Gurl|you|though|
 without|da|dashes
