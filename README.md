@@ -43,6 +43,8 @@ Bold: **Double Asterisks**   __Double Underlining__
 Italic: *Single Asterisk*  _Single Underline_
 
 Strikethrough: ~~Double tilde~~
+
+Bold Italic : **Bold __Italic__**
 ```
 
 Translates to 
@@ -52,4 +54,7 @@ Bold: **Double Asterisks**   __Double Underlining__
 Italic: *Single Asterisk*  _Single Underline_
 
 Strikethrough: ~~Double tilde~~
+
+Bold Italic : **Bold _Italic_**
+
 
