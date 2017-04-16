@@ -96,4 +96,30 @@ Reference style
 ![Alt-text][Google-Image]
 
 [Google-Image]:https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+
+``` HTML
+<HTML>
+<HEAD>
+<TITLE> Testing  Code syntax highlighting</TITLE>
+</HEAD>
+<BODY>
+Good going, Google
+</BODY>
+</HTML>
+```
+
     
+``` python
+print("Good going, Bob")
+breadfast = eggs + spam
+print (type(breadfast)
+```
+
+#### Tables
+
+| Col 1 | col 2 | col 3|
+| --- | ---| ---|
+|Roses|are|read|
+|Violets|are|Blue|
+|Gurl|you|though|
+without|da|dashes
